@@ -4,6 +4,6 @@ I am going through this tutorial ([link here](https://www.geeksforgeeks.org/onli
 
 ## Logistic Regression (supervised learning) 
 
-<u>Overview of linear & multiple regression<u>
+<ins> Overview of linear & multiple regression </ins>
 
 <img src="images/Linear_multiple_regression.jpg" width="700">
