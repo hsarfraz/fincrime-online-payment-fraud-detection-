@@ -4,8 +4,12 @@ I am going through this tutorial ([link here](https://www.geeksforgeeks.org/onli
 
 ## Logistic Regression (supervised learning) 
 
-<ins> Overview of linear & multiple regression </ins>
+<ins> Overview of linear & multiple regression </ins> -note: regression can be used for supervised learning
 
 <img src="images/Linear_multiple_regression.jpg" width="700">
 
 [multiple regression image reference](https://www.youtube.com/watch?v=zITIFTsivN8)
+
+<ins> Logistic Regression </ins>
+
+Logistic regression is a statistical method used for predicting a binary (yes/no) outcome based on one or more independent variables. In the context of machine learning, this would be a supervised learning algorithm used for classification. Specifically, predicting the probability of a binary outcome
