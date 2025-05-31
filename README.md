@@ -14,6 +14,8 @@ link: [multiple regression image reference](https://www.youtube.com/watch?v=zITI
 
 Logistic regression is a statistical method used for predicting a binary (yes/no) outcome based on one or more independent variables. In the context of machine learning, this would be a supervised learning algorithm used for classification. Specifically, predicting the probability of a binary outcome
 
+<img src="images/Logistic_regression.jpg" width="700">
+
 link: Youtube video "[Logistic Regression Simply Explained with Examples](https://www.youtube.com/watch?v=CuvIc8C3EDI)"
 
 <ins> Additional math calculation steps (for fun) </ins>
