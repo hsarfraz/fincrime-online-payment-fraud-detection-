@@ -21,3 +21,7 @@ link: Youtube video "[Logistic Regression Simply Explained with Examples](https:
 Here is the math calculations to get from the sigmoid to logit function
 
 <img src="images/Sigmoid_logit_fuction.jpg" width="400">
+
+Here is the math calculation that solve for P in the logistic regression formula
+
+<img src="images/Logistic_regression_formula.jpg" width="400">
