@@ -4,7 +4,7 @@ I am going through this tutorial ([link here](https://www.geeksforgeeks.org/onli
 
 | Machine Learning Algorithm  | Overview |
 | ------------- | ------------- |
-| Logistic Regression  | Content Cell  | supervised learning algorithm used for classification |
+| Logistic Regression  | Content Cell  | supervised learning algorithm used for classification
 | XGBoost (eXtreme Gradient Boosting)  | supervised learning algorithm used for classification & regression  |
 
 ## Logistic Regression (supervised learning algorithm used for classification) 
