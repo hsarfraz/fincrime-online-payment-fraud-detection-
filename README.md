@@ -11,7 +11,7 @@ I am going through this tutorial ([link here](https://www.geeksforgeeks.org/onli
 
 ## XGBoost (eXtreme Gradient Boosting) (supervised learning algorithm used for classification & regression)
 
-A machine learning algorithm that gradually increases its accuracy through training. Gradient boosting is applied on top of another machine learning algorithm. It involves two types of models ([link to source](https://developers.google.com/machine-learning/decision-forests/intro-to-gbdt))
+A machine learning algorithm that gradually increases its accuracy through training. Gradient boosting is applied on top of another machine learning algorithm. It involves two types of models ([link to source from Google which talks about XGBoost in greater detail](https://developers.google.com/machine-learning/decision-forests/intro-to-gbdt))
 
 * a weak ML model which is typically a decision tree
 * s strong ML model which composes of multiple weak models
