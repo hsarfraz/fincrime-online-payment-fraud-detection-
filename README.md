@@ -17,7 +17,9 @@ A machine learning algorithm that gradually increases its accuracy through train
 * s strong ML model which composes of multiple weak models
 
 https://www.youtube.com/watch?v=QWEI0JjiDBg
+
 https://www.youtube.com/watch?v=PxgVFp5a0E4
+
 https://www.youtube.com/watch?v=XXHhrlL-FWc
 
 
