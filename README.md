@@ -18,4 +18,6 @@ Logistic regression is a statistical method used for predicting a binary (yes/no
 
 link: Youtube video "[Logistic Regression Simply Explained with Examples](https://www.youtube.com/watch?v=CuvIc8C3EDI)"
 
-<ins> Additional math calculation steps (for fun) </ins>
+Here is the math calculations to get from the sigmoid to logit function
+
+<img src="images/Logistic_regression.jpg" width="700">
