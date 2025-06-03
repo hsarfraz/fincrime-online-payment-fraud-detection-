@@ -20,4 +20,4 @@ link: Youtube video "[Logistic Regression Simply Explained with Examples](https:
 
 Here is the math calculations to get from the sigmoid to logit function
 
-<img src="images/Logistic_regression.jpg" width="700">
+<img src="images/Sigmoid_logit_function.jpg" width="700">
