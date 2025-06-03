@@ -24,4 +24,6 @@ Here is the math calculation that solve for P in the logistic regression formula
 
 <img src="images/Logistic_regression_formula.jpg" width="400">
 
-<img src="images/desmos_logistic_regression.jpg" width="400">
+Here is a graph of logistic regression on desmos
+
+<img src="images/desmos_logistic_regression.jpg" width="700">
