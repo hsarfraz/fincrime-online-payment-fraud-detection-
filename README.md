@@ -26,6 +26,10 @@ https://www.youtube.com/watch?v=QWEI0JjiDBg
 
 https://www.youtube.com/watch?v=PxgVFp5a0E4
 
+tutorials
+
 https://www.youtube.com/watch?v=XXHhrlL-FWc
+
+https://blog.cambridgespark.com/getting-started-with-xgboost-3ba1488bb7d4
 
 
