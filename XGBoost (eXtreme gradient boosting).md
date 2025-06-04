@@ -18,6 +18,7 @@ The residual is the difference between the actual data points and predicted valu
 3. In residual graph level 1, similarity scores ($S_{root}$, $S_{left}$, $S_{right}$) are calculated to determine the best place to split the residuals. Once the three similarity scores are calculated the gain is calculated. The split that has the highest gain value is the graph which has the best split.
 4. Once the residuals are split, the average of the residuals is calculated and this value is then added in the decision tree. There might be sections where the similarity score needs to be calculated again to further split that subsection of residuals that have already been split previously
 5. The prediction function/score is then calculated [video reference link](https://www.youtube.com/watch?v=PxgVFp5a0E4)
+6. Once the new prediction function/score is calculated then it is re-applied on the original dataset and the whole process repeats 
 
 <img src="images/Similarity_score.jpg" width="700">
 
