@@ -35,12 +35,6 @@ The residual is the difference between the actual data points and predicted valu
 <img src="images/Prediction_fuction.jpg" width="700">
 
 
-
-
-https://www.youtube.com/watch?v=QWEI0JjiDBg
-
-https://www.youtube.com/watch?v=PxgVFp5a0E4
-
 tutorials
 
 https://www.youtube.com/watch?v=XXHhrlL-FWc
