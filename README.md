@@ -22,6 +22,10 @@ The residual is the difference between the actual data points and predicted valu
 
 <img src="images/Residual_plot.jpg" width="700">
 
+<ins> XGBoost (eXtreme Gradient Boosting) process  </ins>
+
+
+
 https://www.youtube.com/watch?v=QWEI0JjiDBg
 
 https://www.youtube.com/watch?v=PxgVFp5a0E4
