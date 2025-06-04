@@ -6,3 +6,7 @@ I am going through this tutorial ([link here](https://www.geeksforgeeks.org/onli
 | ------------- | ------------- |
 | [Logistic Regression](https://github.com/hsarfraz/fincrime-online-payment-fraud-detection-/blob/main/logistic%20regression.md)  | supervised learning algorithm used for classification  | 
 | [XGBoost (eXtreme Gradient Boosting)](https://github.com/hsarfraz/fincrime-online-payment-fraud-detection-/blob/main/XGBoost%20(eXtreme%20gradient%20boosting).md)  | supervised learning algorithm used for classification & regression  |
+| [SVM (Support Vector Machines)]()  | supervised learning algorithm used for classification & regression  |
+
+
+## SVM (Support Vector Machines) (supervised learning algorithm used for classification & regression)
