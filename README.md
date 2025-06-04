@@ -24,16 +24,15 @@ The residual is the difference between the actual data points and predicted valu
 
 <ins> XGBoost (eXtreme Gradient Boosting) process  </ins>
 
-1. The prediction function line for the original dataset is usually calculated by just finding the average of the y-values. Or you can just pick any other value for your prediction.
-2. Residual graph level 1 is the first residual graph that represents the residuals calculated from the original dataset. Additionally, the red lines represent decision boundaries created by the decision tree to split the residuals (errors) for better prediction
+1. The prediction function line for the original dataset is usually calculated by just finding the average of the y-values. Or you can just pick any other value for your prediction. [video reference link](https://www.youtube.com/watch?v=1Apk4lGg008)
+2. Residual graph level 1 is the first residual graph that represents the residuals calculated from the original dataset. Additionally, the red lines represent decision boundaries created by the decision tree to split the residuals (errors) for better prediction. [video reference link](https://www.youtube.com/watch?v=QWEI0JjiDBg)
 3. In residual graph level 1, similarity scores ($S_{root}$, $S_{left}$, $S_{right}$) are calculated to determine the best place to split the residuals. Once the three similarity scores are calculated the gain is calculated. The split that has the highest gain value is the graph which has the best split.
 4. Once the residuals are split, the average of the residuals is calculated and this value is then added in the decision tree. There might be sections where the similarity score needs to be calculated again to further split that subsection of residuals that have already been split previously
-5. The prediction function/score is then calculated
+5. The prediction function/score is then calculated [video reference link](https://www.youtube.com/watch?v=PxgVFp5a0E4)
 
 <img src="images/Similarity_score.jpg" width="700">
 
-<img src="images/Prediction_function.jpg" width="700">
-
+<img src="images/Prediction_fuction.jpg" width="700">
 
 
 
