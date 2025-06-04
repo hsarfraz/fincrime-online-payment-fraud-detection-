@@ -16,6 +16,10 @@ A machine learning algorithm that gradually increases its accuracy through train
 * a weak ML model which is typically a decision tree
 * s strong ML model which composes of multiple weak models
 
+<ins> What is a residual? </ins>
+
+The residual is the difference between the actual data points and predicted values (actual - predicted = residual). The predicted values are the data points on the regression line (line of best fit)
+
 https://www.youtube.com/watch?v=QWEI0JjiDBg
 
 https://www.youtube.com/watch?v=PxgVFp5a0E4
