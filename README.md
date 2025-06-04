@@ -26,7 +26,7 @@ The residual is the difference between the actual data points and predicted valu
 
 * The prediction function line for the original dataset is usually calculated by just finding the average of the y-values. Or you can just pick any other value for your prediction.
 * Residual graph level 1 is the first residual graph that represents the residuals calculated from the original dataset. Additionally, the red lines represent decision boundaries created by the decision tree to split the residuals (errors) for better prediction
-* In residual graph level 1, similarity scores ($S_{root}$, $S_{left}$, $S_{right}$) are calculated. Similarity scores help determine the best place to split the residuals 
+* In residual graph level 1, similarity scores ($S_{root}$, $S_{left}$, $S_{right}$) are calculated to determine the best place to split the residuals. Once the three similarity scores are calculated the gain is calculated. The split that has the highest gain value is the graph which has the best split. 
 
 * 
 Update 2: I would also like to point out that in my previous explanation below the "line of best fit/regression line" is actually supposed to be called the "prediction function". The concept of the "line of best fit/regression line" is a term related with linear regression whereas the prediction line in XGBoost is different. Although the two can be conceptually similar 
