@@ -26,16 +26,15 @@ The residual is the difference between the actual data points and predicted valu
 
 1. The prediction function line for the original dataset is usually calculated by just finding the average of the y-values. Or you can just pick any other value for your prediction.
 2. Residual graph level 1 is the first residual graph that represents the residuals calculated from the original dataset. Additionally, the red lines represent decision boundaries created by the decision tree to split the residuals (errors) for better prediction
-3. In residual graph level 1, similarity scores ($S_{root}$, $S_{left}$, $S_{right}$) are calculated to determine the best place to split the residuals. Once the three similarity scores are calculated the gain is calculated. The split that has the highest gain value is the graph which has the best split. 
+3. In residual graph level 1, similarity scores ($S_{root}$, $S_{left}$, $S_{right}$) are calculated to determine the best place to split the residuals. Once the three similarity scores are calculated the gain is calculated. The split that has the highest gain value is the graph which has the best split.
+4. Once the residuals are split, the average of the residuals is calculated and this value is then added in the decision tree. There might be sections where the similarity score needs to be calculated again to further split that subsection of residuals that have already been split previously
+5. The prediction function/score is then calculated
 
 <img src="images/Similarity_score.jpg" width="700">
 
-* 
-Update 2: I would also like to point out that in my previous explanation below the "line of best fit/regression line" is actually supposed to be called the "prediction function". The concept of the "line of best fit/regression line" is a term related with linear regression whereas the prediction line in XGBoost is different. Although the two can be conceptually similar 
+<img src="images/Prediction_function.jpg" width="700">
 
-For anyone reading this comment in the future the answer to my first question is yes. The numbers shown in the decision tree is the average of the residuals calculated from the previous residual plot. The average of the residuals would then be used as a new prediction function line for the part of the graph that is split (the new graph). Additionally, the data points (of the new graph) will be the residuals calculated from the previous graph through subtracting the previous graphs data points with the previous line of best fit. 
 
-So after you have plotted the data points of the new graph and have calculated the average number of residuals (which will be used as the new prediction function line), you calculate the residuals of those points with respect to the new prediction function lines (as shown in min 9:16). Remember, the number for the new prediction function lines come from the decision trees which showed the average regressions of the previous graph. When you initially start this process using the original dataset (as shown in 0:21) you usually get the average by just averaging all the y-values. 
 
 
 
