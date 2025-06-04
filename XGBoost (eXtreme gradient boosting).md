@@ -22,7 +22,7 @@ The residual is the difference between the actual data points and predicted valu
 
 <img src="images/Similarity_score.jpg" width="700">
 
-<img src="images/Prediction_fuction.jpg" width="700">
+<img src="images/Prediction_function.jpg" width="700">
 
 
 tutorials
