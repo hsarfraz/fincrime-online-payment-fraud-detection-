@@ -20,6 +20,8 @@ A machine learning algorithm that gradually increases its accuracy through train
 
 The residual is the difference between the actual data points and predicted values (actual - predicted = residual). The predicted values are the data points on the regression line (line of best fit)
 
+<img src="images/Residual_plot.jpg" width="700">
+
 https://www.youtube.com/watch?v=QWEI0JjiDBg
 
 https://www.youtube.com/watch?v=PxgVFp5a0E4
