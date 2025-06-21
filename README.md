@@ -25,6 +25,8 @@ How are regression decision trees made? [Video reference](https://www.youtube.co
 * In the graph below, the dependant variable is not shown since the graph is 3-dimensional. It is important to note that the initial graph does seem familier with the way the SVM graph was set up but the key difference is that in SVM's the dependent variable is represented through grouping of the different data points.
 * The algorithm decides were to split the data and does this through information entropy (the measure of the uncertainty or randomness associated with a random variable)
 
+<img src="images/Regression_decision_trees.jpg" width="400">
+
 
 
 
