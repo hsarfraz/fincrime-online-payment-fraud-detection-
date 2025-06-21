@@ -24,6 +24,6 @@ How are regression decision trees made? [Video reference](https://www.youtube.co
 
 ### Random Forest Classification
 
-https://www.youtube.com/watch?v=CionWPB9aYI
+https://www.youtube.com/watch?v=HUhuJBnAGmo
 
 How are classification decision trees made? [Video reference](https://www.youtube.com/watch?v=CionWPB9aYI)
