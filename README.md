@@ -27,6 +27,14 @@ How are regression decision trees made? [Video reference](https://www.youtube.co
 
 <img src="images/Regression_decision_trees.jpg" width="800">
 
+**Step 2**: Build the decision tree associated to these K data points. 
+
+**Step 3**: Choose the number of trees you want to build and repeat steps 1 and 2
+
+**Step 4**: Once all of your decision trees are created you can now start to predict the values of new data points. Each decision tree will make it's own prediction for that specific data point and once you have all the predictions made from all the decision trees, you can then calculate the average of all predicted outputs produced by all the decision trees. This final average is the final prediction value of the random forest regression.
+
+
+
 
 
 
