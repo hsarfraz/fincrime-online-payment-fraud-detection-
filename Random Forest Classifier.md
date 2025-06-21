@@ -24,6 +24,10 @@ How are regression decision trees made? [Video reference](https://www.youtube.co
 
 ### Random Forest Classification
 
-https://www.youtube.com/watch?v=HUhuJBnAGmo
+The steps for random forest classification is the same as steps 1-3 for random forest regression. The only difference is with step 4. [video reference](https://www.youtube.com/watch?v=HUhuJBnAGmo)
+
+**Step 1-3**: Same as the steps explained in the random forest regression section
+
+**Step 4**: For every new data point, you will use all of your decision trees to predict the category where the data point belongs too. Once all of the decsion trees have predicted a data points category, the data point would be officially allocated to the category which majority of the decision trees picked as the correct category. 
 
 How are classification decision trees made? [Video reference](https://www.youtube.com/watch?v=CionWPB9aYI)
